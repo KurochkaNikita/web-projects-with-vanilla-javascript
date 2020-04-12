@@ -57,7 +57,7 @@ function checkLength(inputArr = []) {
   })
 }
 
-function isCheckMatch(input1, input2) {
+function checkMatch(input1, input2) {
   if (input1.value === input2.value) {
     showSuccess(input2)
   } else {
@@ -86,5 +86,5 @@ form.addEventListener('submit', (e) => {
   isRequired(requiredFields);
   checkLength(rangeLengthFields);
   checkEmail(email);
-  isCheckMatch(password, confirmPassword);
+  checkMatch(password, confirmPassword);
 });
