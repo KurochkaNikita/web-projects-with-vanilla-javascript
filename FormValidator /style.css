@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 :root {
-    --success-color: #2ecc71;
-    --erroe-color: #e74c3c;
+    --success-color: #0bcc73;
+    --erroe-color: #e74139;
+    --gray-color: #777;
 }
 
 *{
@@ -42,7 +43,7 @@ h2 {
 }
 
 .form-control label {
-    color: #777;
+    color: var(--gray-color);
     display: block;
     margin-bottom: 5px;
 }
@@ -58,7 +59,7 @@ h2 {
 
 .form-control input:focus {
     outline: 0;
-    border-color: #777;
+    border-color: var(--gray-color);
 }
 
 .form-control.success input {
@@ -93,4 +94,14 @@ h2 {
     margin-top: 20px;
     width: 100%;
 }
+
+.form button:focus {
+    outline: 0;
+}
+
+.form button:active {
+    background-color: #4f6bdb;
+    outline: 0;
+}
+
 
