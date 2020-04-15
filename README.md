@@ -11,13 +11,13 @@
 | 07  | [Hangman Game]() |  |
 | 08  | [Mealfinder App]() |  |
 | 09  | [Expense Tracker]() |  |
-| 10  | [Music Player]() | DONE 14.04.2020 |
+| 10  | [Music Player](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/CustomVideoPlayer) | DONE 14.04.2020 |
 | 11  | [Infinite Scrolling]() |  |
 | 12  | [Typing Game]() |  |
 | 13  | [Speech Text Reader]() |  |
 | 14  | [Memory Cards]() |  |
 | 15  | [LyricsSearch App]() |  |
-| 16  | [Relaxer App]() |   |
+| 16  | [RelaxBreathe]() |   |
 | 17  | [Breakout Game]() |   |
 | 18  | [New Year Countdown]() |   |
 | 19  | [Sortable List]() |   |
