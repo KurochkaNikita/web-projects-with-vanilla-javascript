@@ -17,7 +17,7 @@
 | 13  | [Speech Text Reader]() |  |
 | 14  | [Memory Cards]() |  |
 | 15  | [LyricsSearch App]() |  |
-| 16  | [RelaxBreathe]() |   |
+| 16  | [RelaxBreathe](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/RelaxBreathe) |  DONE 15.04.2020 |
 | 17  | [Breakout Game]() |   |
 | 18  | [New Year Countdown]() |   |
 | 19  | [Sortable List]() |   |
