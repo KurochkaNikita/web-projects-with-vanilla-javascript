@@ -69,7 +69,7 @@ function checkMatch(input1, input2) {
 
 form.addEventListener('submit', (e) => {
   e.preventDefault();
-  const requiredFields = [username, email, password, confirmPassword];
+  const requiredFields = [username, email, password];
   const rangeLengthFields = [
     {
       input: username,
@@ -87,4 +87,5 @@ form.addEventListener('submit', (e) => {
   checkLength(rangeLengthFields);
   checkEmail(email);
   checkMatch(password, confirmPassword);
+  isRequired([confirmPassword])
 });
