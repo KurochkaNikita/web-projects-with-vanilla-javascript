@@ -4,14 +4,14 @@
 | :-: | :----------------------------: | :-------: |
 | 01  | [Form Validator](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/FormValidator%20) | DONE 13.04.2020 |
 | 02  | [Movie Seat Booking]() |  |
-| 03  | [Custom Video Player]() |  |
+| 03  | [Custom Video Player](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/CustomVideoPlayer) | DONE 14.04.2020 |
 | 04  | [Exchange Rate Calculator]() |  |
 | 05  | [DOM Array Methods Project]() |  |
 | 06  | [Menu Slider & Modal]() |  |
 | 07  | [Hangman Game]() |  |
 | 08  | [Mealfinder App]() |  |
 | 09  | [Expense Tracker]() |  |
-| 10  | [Music Player](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/CustomVideoPlayer) | DONE 14.04.2020 |
+| 10  | [Music Player]() |  |
 | 11  | [Infinite Scrolling]() |  |
 | 12  | [Typing Game]() |  |
 | 13  | [Speech Text Reader](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/SpeechText) | DONE 16.04.2020 |
