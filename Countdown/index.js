@@ -6,12 +6,17 @@ const countdown = document.getElementById('countdown');
 const year = document.getElementById('year');
 const loading = document.getElementById('loading');
 
+
+const dayAndMouth = 'November 16';
 const currentYear = new Date().getFullYear();
-const newYearTime = new Date(`January 16 ${currentYear + 1} 00:00:00`);
+
+const inYear = new Date(`${dayAndMouth} ${currentYear + 1} 00:00:00`) - new Date() > 0 ? currentYear : currentYear + 1;
+
+const newBirthdayTime = new Date(`${dayAndMouth} ${inYear} 00:00:00`);
 
 function updateCountdown() {
   const currentTime = new Date();
-  const diff = newYearTime - currentTime;
+  const diff = newBirthdayTime - currentTime;
 
   const d = Math.floor(diff / 1000 / 60 / 60 / 24);
   const h = Math.floor(diff / 1000 / 60 / 60 ) % 24;
@@ -29,5 +34,5 @@ setTimeout(() => {
   countdown.style.display = 'flex';
 }, 1000);
 
-year.innerText = currentYear + 1;
+year.innerText = inYear;
 setInterval(updateCountdown, 1000);
