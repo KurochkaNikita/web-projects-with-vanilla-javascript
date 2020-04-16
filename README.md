@@ -14,7 +14,7 @@
 | 10  | [Music Player](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/CustomVideoPlayer) | DONE 14.04.2020 |
 | 11  | [Infinite Scrolling]() |  |
 | 12  | [Typing Game]() |  |
-| 13  | [Speech Text Reader]() |  |
+| 13  | [Speech Text Reader](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/SpeechText)) |  |
 | 14  | [Memory Cards]() |  |
 | 15  | [LyricsSearch App]() |  |
 | 16  | [RelaxBreathe](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/RelaxBreathe) |  DONE 15.04.2020 |
