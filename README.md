@@ -19,6 +19,6 @@
 | 15  | [LyricsSearch App]() |  |
 | 16  | [RelaxBreathe](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/RelaxBreathe) |  DONE 15.04.2020 |
 | 17  | [Breakout Game]() |   |
-| 18  | [Countdown](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Countdown) |   |
+| 18  | [Countdown](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Countdown) |  DONE 16.04.2020 |
 | 19  | [Sortable List]() |   |
 | 20  | [Speak Number Guessing Game]() |   |
