@@ -25,7 +25,7 @@ function updateCountdown() {
 }
 
 setTimeout(() => {
-  loading.remove()
+  loading.remove();
   countdown.style.display = 'flex';
 }, 1000);
 
