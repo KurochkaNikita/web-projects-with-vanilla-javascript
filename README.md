@@ -17,7 +17,7 @@
 | 13  | [Speech Text Reader](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/SpeechText) | DONE 16.04.2020 |
 | 14  | [Memory Cards]() |  |
 | 15  | [LyricsSearch App]() |  |
-| 16  | [RelaxBreathe](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/RelaxBreathe) |  DONE 15.04.2020 |
+| 16  | [Relax Breathe](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/RelaxBreathe) |  DONE 15.04.2020 |
 | 17  | [Breakout Game]() |   |
 | 18  | [Countdown](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Countdown) |  DONE 16.04.2020 |
 | 19  | [Sortable List]() |   |
