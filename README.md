@@ -20,5 +20,5 @@
 | 16  | [Relax Breathe](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/RelaxBreathe) |  DONE 15.04.2020 |
 | 17  | [Breakout Game]() |   |
 | 18  | [Countdown](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Countdown) |  DONE 16.04.2020 |
-| 19  | [Sortable List](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Sortable List) | DONE 18.04.2020  |
+| 19  | [Sortable List](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/SortableList) | DONE 18.04.2020  |
 | 20  | [Speak Number Guessing Game](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/SpeakNumberGuessingGame) | DONE 17.04.2020 |
