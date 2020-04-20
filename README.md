@@ -12,7 +12,7 @@
 | 08  | [Mealfinder App]() |  |
 | 09  | [Expense Tracker]() |  |
 | 10  | [Music Player]() |  |
-| 11  | [Infinite Scrolling]() |  |
+| 11  | [Infinite Scrolling](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Infinite%20Scroll%20Post) | DONE 20.04.2020 |
 | 12  | [Typing Game]() |  |
 | 13  | [Speech Text Reader](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Speech%20Text) | DONE 16.04.2020 |
 | 14  | [Memory Cards]() |  |
