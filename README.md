@@ -7,7 +7,7 @@
 | 03  | [Custom Video Player](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Custom%20Video%20Player) | DONE 14.04.2020 |
 | 04  | [Exchange Rate Calculator]() |  |
 | 05  | [DOM Array Methods Project]() |  |
-| 06  | [Menu Slider & Modal]() |  |
+| 06  | [Menu Slider & Modal](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Slider%20and%20Modal) | DONE 20.04.2020 |
 | 07  | [Hangman Game]() |  |
 | 08  | [Mealfinder App]() |  |
 | 09  | [Expense Tracker]() |  |
