@@ -3,7 +3,7 @@
 |  #  |            Project             | STATUS |
 | :-: | :----------------------------: | :-------: |
 | 01  | [Form Validator](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Form%20Validator) | DONE 13.04.2020 |
-| 02  | [Movie Seat Booking]() |  |
+| 02  | [Movie Seat Booking](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Movie%20Seat) | DONE 21.04.2020 |
 | 03  | [Custom Video Player](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Custom%20Video%20Player) | DONE 14.04.2020 |
 | 04  | [Exchange Rate Calculator]() |  |
 | 05  | [DOM Array Methods Project]() |  |
