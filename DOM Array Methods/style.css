@@ -39,7 +39,7 @@ button {
     width: 100%;
 }
 
-.main {
+main {
     flex: 1;
     padding: 10px 20px;
 }
