@@ -5,7 +5,7 @@
 | 01  | [Form Validator](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Form%20Validator) | DONE 13.04.2020 |
 | 02  | [Movie Seat Booking](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Movie%20Seat) | DONE 21.04.2020 |
 | 03  | [Custom Video Player](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Custom%20Video%20Player) | DONE 14.04.2020 |
-| 04  | [Exchange Rate Calculator]() |  |
+| 04  | [Exchange Rate Calculator](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Exchange%20Rate%20Calculator) | DONE 22.04.2020 |
 | 05  | [DOM Array Methods Project]() |  |
 | 06  | [Menu Slider & Modal](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Slider%20and%20Modal) | DONE 20.04.2020 |
 | 07  | [Hangman Game]() |  |
