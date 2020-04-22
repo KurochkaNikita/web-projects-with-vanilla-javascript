@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+:root {
+    --primary-color: #5fbaa7;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: var(--primary-color);
+}
+
+p {
+    text-align: center;
+}
+
+.btn {
+    color: #fff;
+    background-color: var(--primary-color);
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 12px;
+    padding: 5px 12px;
+}
+
+.money-img {
+    width: 150px;
+}
+
+.currency {
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.currency select {
+    padding: 10px 20px 20px;
+    border: 1px solid #dedede;
+    font-size: 25px;
+}
+
+.currency input {
+    border: 0;
+    background: transparent;
+    font-size: 25px;
+    text-align: right;
+}
+
+select:focus, .input:focus, button:focus {
+    outline: none;
+}
+
+.swap-rate-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.rate {
+    color: var(--primary-color);
+    font-size: 20px;
+    padding: 0 10px;
+}
+
+@media (max-width: 600px) {
+    .currency input {
+        width: 200px;
+    }
+}
