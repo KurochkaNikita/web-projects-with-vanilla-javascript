@@ -20,7 +20,7 @@ async function getRandomUser() {
 
     const newUser = {
         name: `${user.name.first} ${user.name.last}`,
-        money: Math.floor(Math.random() * 1000000)
+        money: Math.floor(Math.random() * 1111111)
     };
 
     addData(newUser);
