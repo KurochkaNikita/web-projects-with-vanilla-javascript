@@ -8,7 +8,7 @@
 | 04  | [Exchange Rate Calculator](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Exchange%20Rate%20Calculator) | DONE 22.04.2020 |
 | 05  | [DOM Array Methods Project](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/DOM%20Array%20Methods) | DONE 22.04.2020 |
 | 06  | [Menu Slider & Modal](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Slider%20and%20Modal) | DONE 20.04.2020 |
-| 07  | [Hangman Game]() |  |
+| 07  | [Hangman Game](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Hangman) |  |
 | 08  | [Mealfinder App]() |  |
 | 09  | [Expense Tracker](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Expense%20Tracker) | DONE 23.04.2020 |
 | 10  | [Music Player]() |  |
