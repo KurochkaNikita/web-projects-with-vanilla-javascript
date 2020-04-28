@@ -11,7 +11,7 @@
 | 07  | [Hangman Game](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Hangman) | DONE 27.04.2020 |
 | 08  | [Mealfinder App]() |  |
 | 09  | [Expense Tracker](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Expense%20Tracker) | DONE 23.04.2020 |
-| 10  | [Music Player](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Music%20Player) |  |
+| 10  | [Music Player](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Music%20Player) | DONE 28.04.2020 |
 | 11  | [Infinite Scrolling](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Infinite%20Scroll%20Post) | DONE 20.04.2020 |
 | 12  | [Typing Game]() |  |
 | 13  | [Speech Text Reader](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Speech%20Text) | DONE 16.04.2020 |
