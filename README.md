@@ -16,7 +16,7 @@
 | 12  | [Typing Game](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Typing%20Game) | DONE 1.04.2020 |
 | 13  | [Speech Text Reader](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Speech%20Text) | DONE 16.04.2020 |
 | 14  | [Memory Cards]() |  |
-| 15  | [LyricsSearch App]() |  |
+| 15  | [LyricsSearch](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Lyrics%20Search) |  |
 | 16  | [Relax Breathe](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Relax%20Breathe) |  DONE 15.04.2020 |
 | 17  | [Breakout Game]() |   |
 | 18  | [Countdown](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Countdown) |  DONE 16.04.2020 |
