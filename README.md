@@ -13,10 +13,10 @@
 | 09  | [Expense Tracker](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Expense%20Tracker) | DONE 23.04.2020 |
 | 10  | [Music Player](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Music%20Player) | DONE 28.04.2020 |
 | 11  | [Infinite Scrolling](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Infinite%20Scroll%20Post) | DONE 20.04.2020 |
-| 12  | [Typing Game](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Typing%20Game) | DONE 1.04.2020 |
+| 12  | [Typing Game](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Typing%20Game) | DONE 1.05.2020 |
 | 13  | [Speech Text Reader](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Speech%20Text) | DONE 16.04.2020 |
 | 14  | [Memory Cards]() |  |
-| 15  | [LyricsSearch](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Lyrics%20Search) |  |
+| 15  | [LyricsSearch](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Lyrics%20Search) | DONE 02.05.2020 |
 | 16  | [Relax Breathe](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Relax%20Breathe) |  DONE 15.04.2020 |
 | 17  | [Breakout Game]() |   |
 | 18  | [Countdown](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Countdown) |  DONE 16.04.2020 |
