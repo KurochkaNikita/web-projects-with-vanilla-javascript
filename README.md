@@ -18,7 +18,7 @@
 | 14  | [Memory Cards](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Memory%20Cards) | DONE 03.05.2020 |
 | 15  | [LyricsSearch](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Lyrics%20Search) | DONE 02.05.2020 |
 | 16  | [Relax Breathe](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Relax%20Breathe) |  DONE 15.04.2020 |
-| 17  | [Breakout Game]() |   |
+| 17  | [Breakout Game](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Breakout%20Game) |   |
 | 18  | [Countdown](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Countdown) |  DONE 16.04.2020 |
 | 19  | [Sortable List](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Sortable%20List) | DONE 18.04.2020  |
 | 20  | [Speak Number Guessing Game](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Speak%20Number%20Guessing%20Game) | DONE 17.04.2020 |
