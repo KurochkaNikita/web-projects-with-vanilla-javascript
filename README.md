@@ -24,3 +24,4 @@
 | 20  | [Speak Number Guessing Game](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Speak%20Number%20Guessing%20Game) | DONE 17.04.2020 |
 |     |  New Part  |  |
 | 21  | [Expanding Cards](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Expanding%20Cards) | DONE 02.02.2021 |
+| 21  | [Progress Steps](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Progress%20Steps) | DONE 03.02.2021 |
