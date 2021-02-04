@@ -26,3 +26,4 @@
 | 21  | [Expanding Cards](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Expanding%20Cards) | DONE 02.02.2021 |
 | 22  | [Progress Steps](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Progress%20Steps) | DONE 03.02.2021 |
 | 23  | [Search Form Widget](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Search%20Form%20Widget) | DONE 03.02.2021 |
+| 24  | [Rotating Navigation](https://github.com/FreeNikita/web-projects-with-vanilla-javascript/tree/master/Rotating%20Navigation) | DONE 04.02.2021 |
